@@ -16,3 +16,7 @@ Timeline:
 
  - 7/4/2020 - Added Homework 3 containing a chessboard i had to model starting from a given svg file (included)
             - 8/4 edit - added separate stl files for each chess piece, fixed a problem in the fusion project of the chessboard (the pieces                         were not colored differently, now they are), added an image of the sliced pieces where some are laying down because                         prusa slicer was displaying some errors which were fixed by changing the orientation like this
+
+- 14/4/2020 - Added Homework 4 containing a Scotch-Yoke Mechanism with animation preview
+
+- 29/4/2020 - Added Homework 5 cotaining another animated mechanism
